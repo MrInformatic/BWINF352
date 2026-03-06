@@ -1,0 +1,15 @@
+kreiscode-binary2ascii.txt
+bwinf-challenge_test_rot_reexport.jpg
+bwinf-challenge_test_rot_noise25_reexport.jpg
+bwinf-challenge_test_rot_noise50_reexport.jpg
+bwinf-challenge-test-cam1.jpg
+bwinf-challenge-test-cam2.jpg
+bwinf-challenge-test-cam3.jpg
+bwinf-challenge-test-cam4.jpg
+bwinf-challenge-test-cam5.jpg
+bwinf-challenge-test-cam6.jpg
+bwinf-challenge-test-cam7.jpg
+bwinf-challenge-test-cam8.jpg
+bwinf-challenge-test-cam9.jpg
+bwinf-challenge-test-camA.jpg
+bwinf-challenge-test-camB.jpg
